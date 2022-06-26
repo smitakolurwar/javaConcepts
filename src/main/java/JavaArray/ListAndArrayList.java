@@ -22,6 +22,7 @@ public class ListAndArrayList {
         System.out.println(parentList.get(3));
         parentList.remove(4);
         System.out.println(parentList);
+        parentList.remove(2);
 
         for (int i = 0; i < parentList.size(); i++) {
 
