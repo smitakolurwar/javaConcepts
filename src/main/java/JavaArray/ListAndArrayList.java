@@ -23,7 +23,7 @@ public class ListAndArrayList {
         parentList.remove(4);
         System.out.println(parentList);
         parentList.remove(2);
-        parentList.size();
+        //parentList.size();
 
         for (int i = 0; i < parentList.size(); i++) {
 
